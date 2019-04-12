@@ -1,4 +1,4 @@
-package com.criscastemendo.increment;
+package com.criscastemendo.increment.Increment;
 
 import java.lang.ref.WeakReference;
 

@@ -4,7 +4,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:padding="16dp"
-    tools:context=".IncrementActivity">
+    tools:context=".Increment.IncrementActivity">
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -21,8 +21,17 @@
 
         <Button
             android:id="@+id/button2"
+            android:layout_width="74dp"
+            android:layout_height="65dp"
+            android:text="  +1  "
+            android:textColor="@android:color/background_dark"
+            android:textSize="20dp" />
+        <TextView
+            android:id="@+id/click"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Button" />
+            android:text="@string/number"
+            android:textAlignment="center"
+            android:textSize="30sp" />
     </LinearLayout>
 </FrameLayout>

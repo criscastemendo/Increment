@@ -1,4 +1,4 @@
-package com.criscastemendo.increment;
+package com.criscastemendo.increment.Increment;
 
 public class IncrementModel implements IncrementContract.Model {
 

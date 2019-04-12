@@ -1,6 +1,5 @@
-package com.criscastemendo.increment;
+package com.criscastemendo.increment.Increment;
 
-import android.util.Log;
 import android.content.Intent;
 import android.content.Context;
 import com.criscastemendo.increment.Mediator.AppMediator;
